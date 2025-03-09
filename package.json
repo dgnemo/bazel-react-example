@@ -1,0 +1,13 @@
+{
+  "name": "workspace",
+  "version": "1.0.0",
+  "description": "Root JS project for the monorepo. Contains repo-wide devDependencies.",
+  "private": true,
+  "packageManager": "pnpm@9.15.6",
+  "devDependencies": {
+    "typescript": "5.4.5"
+  },
+  "pnpm": {
+    "onlyBuiltDependencies": []
+  }
+}
